@@ -46,5 +46,7 @@
     "posttest": "npm run lint"
   },
   "main": "./lib/index.js",
-  "license": "Artistic-2.0"
+  "license": "Artistic-2.0",
+  "_from": "loopback-component-passport@2.3.0",
+  "_resolved": "http://registry.npm.taobao.org/loopback-component-passport/download/loopback-component-passport-2.3.0.tgz"
 }
